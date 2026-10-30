@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Fridge01",			
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"algorithm": "cpp",
+			"system_error": "cpp"
+		}
+	}
+}
